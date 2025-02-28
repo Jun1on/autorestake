@@ -1,9 +1,9 @@
-export const SITE_EMOJI = '⚡'
-export const SITE_NAME = 'Nexth'
-export const SITE_INFO = 'Quickly ship Web3 Apps'
+export const SITE_EMOJI = '🔁'
+export const SITE_NAME = 'AutoRestake'
+export const SITE_INFO = 'Quickly restake'
 export const SITE_DESCRIPTION =
-  'A Next.js + Ethereum starter kit with Viem, Wagmi, ConnectKit and Radix Themes and more!'
-export const SITE_URL = 'https://nexth.vercel.app'
+  'Automatically restake your tokens to earn yields. No more manual work. No more wasted time.'
+export const SITE_URL = 'https://autorestake-web.vercel.app'
 
-export const SOCIAL_TWITTER = 'wslyvh'
-export const SOCIAL_GITHUB = 'wslyvh/nexth'
+export const SOCIAL_TWITTER = 'jun1on'
+export const SOCIAL_GITHUB = 'jun1on/autorestake'
