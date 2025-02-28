@@ -22,10 +22,10 @@ export default function HomePage() {
       style={{ backgroundImage: 'url("/background.png")' }}>
       <div className='flex flex-grow items-center justify-center'>
         <div className='max-w-4xl text-center'>
-          <h1 className='mb-4 text-6xl font-bold'>The smarter way to borrow in DeFi.</h1>
+          <h1 className='mb-4 text-6xl font-bold'>The smarter way to stake your ETH.</h1>
           <ul className='mb-6 flex justify-center space-x-4'>
             <li>🌟 Guaranteed better rates</li>
-            <li>🌟 Liquidation protection</li>
+            <li>🌟 Slashing protection</li>
           </ul>
 
           <div className='mt-12 text-center'>
